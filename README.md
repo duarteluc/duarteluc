@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Duarte Antunes
 
-**`Desenvolvedora FullStack`**
+**`Ciência e Análise de Dados`**
 
 Meu nome é Duarte Luciano Antunes, tenho 31 anos e sou natural de São Paulo. Sou graduado na área de Ciências Humanas e atuo profissionalmente na educação básica, exercendo o cargo de Professor Titular na Prefeitura de São Paulo e, atualmente, desempenhando a função de Assistente de Diretor de Escola.
 
