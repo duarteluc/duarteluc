@@ -4,7 +4,7 @@
 
 Meu nome é Duarte Luciano Antunes, tenho 31 anos e sou natural de São Paulo. Sou graduado na área de Ciências Humanas e atuo profissionalmente na educação básica, exercendo o cargo de Professor Titular na Prefeitura de São Paulo e, atualmente, desempenhando a função de Assistente de Diretor de Escola.
 
-Estou em transição de carreira, com foco nas áreas de Ciência e Análise de Dados. Para mais detalhes sobre minha trajetória acadêmica e profissional, acesse meu CV Lattes (http://lattes.cnpq.br/0188668971703527) e meu LinkedIn (https://www.linkedin.com/in/duarte-antunes/).
+Desejo ingressar nas áreas de Ciência e Análise de Dados. Para mais detalhes sobre minha trajetória acadêmica e profissional, acesse meu CV Lattes (http://lattes.cnpq.br/0188668971703527) e meu LinkedIn (https://www.linkedin.com/in/duarte-antunes/).
 
 <p align="left"> 
     <a href="https://github.com/duarteluc?tab=repositories&sort=stargazers">
