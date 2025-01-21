@@ -11,7 +11,7 @@ Estou em transição de carreira, com foco nas áreas de Ciência e Análise de 
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/duarteluc?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/duarteluc?tab=followers">
@@ -65,7 +65,7 @@ Estou em transição de carreira, com foco nas áreas de Ciência e Análise de 
     title="R"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/rstudio-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
 />
 <br/>
 <br/>
